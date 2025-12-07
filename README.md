@@ -6,7 +6,7 @@ Filigree is a sophisticated, visually balanced integration options component bui
 
 ## Live Deployment
 
-[View Demo](https://complex-pearl.vercell.app)  
+[View Demo](https://complex-pearl.vercel.app)  
 
 ---
 
