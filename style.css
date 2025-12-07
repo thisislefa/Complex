@@ -42,10 +42,6 @@
     transition: all 0.3s ease;
   }
 
-  .dungeon-card:hover {
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-    transform: translateY(-4px);
-  }
 
   .dungeon-card-image img {
     width: 100%;
@@ -93,8 +89,8 @@
     transition: color 0.3s ease;
   }
 
-  .dungeon-card-link:hover {
-    color: #002b8e;
+  .dungeon-card-link:hover, .dungeon-card-link:focus {
+    border-bottom: 2px solid #0091ff;
   }
 
   /* Asymmetry: mix text and images in a pattern */
