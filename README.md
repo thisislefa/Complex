@@ -1,5 +1,3 @@
-I see that you're using TypeScript based on the `main.js.map` file. Let me create a comprehensive README that reflects your tech stack and provides proper TypeScript integration examples.
-
 # Filigree — Integration Options Component
 
 ## Overview
